@@ -5,4 +5,4 @@ title: Welcome to my blog about all.thie.things.
 - B-Flat Trumet
 - Flugelhorn
 - E-flat alto
-- **so many** perforamnces lately. it must be the eed of a term.
+**so many** performances lately. It must be the end of a term.
